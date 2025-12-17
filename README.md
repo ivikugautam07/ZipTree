@@ -140,6 +140,6 @@ ZipTree
 - Writing modular, maintainable C++ code
 
 ---
-
+```
 <h3 align="center">Built with ❤️ by Vikash Gautam</h3>
 ```
