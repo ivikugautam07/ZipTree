@@ -105,21 +105,21 @@ This prevents corruption and guarantees exact reconstruction.
 
 ## Project Structure
 
-└── ZipTree
-    ├── CharFrequency.cpp
-    ├── CharFrequency.h
-    ├── CMakeLists.txt
-    ├── Encoder.cpp
-    ├── Encoder.h
-    ├── EncodingUtils.cpp
-    ├── EncodingUtils.h
-    ├── input.txt
-    ├── LICENSE
-    ├── main.cpp
-    ├── README.md
-    ├── TreeNode.cpp
-    └── TreeNode.h
-
+```text
+ZipTree
+├── CharFrequency.cpp
+├── CharFrequency.h
+├── CMakeLists.txt
+├── Encoder.cpp
+├── Encoder.h
+├── EncodingUtils.cpp
+├── EncodingUtils.h
+├── input.txt
+├── LICENSE
+├── main.cpp
+├── README.md
+├── TreeNode.cpp
+└── TreeNode.h
 
 
 ---
@@ -141,12 +141,5 @@ This prevents corruption and guarantees exact reconstruction.
 
 ---
 
-## References
-
-- Huffman Coding – Wikipedia
-- _Introduction to Algorithms_ – Cormen et al.
-- _Data Structures and Algorithm Analysis_ – Mark Allen Weiss
-
----
-
 <h3 align="center">Built with ❤️ by Vikash Gautam</h3>
+```
